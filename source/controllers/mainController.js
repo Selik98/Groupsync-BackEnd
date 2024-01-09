@@ -1,4 +1,4 @@
-const productModel = require('../models/productModels');
+const messageModel = require('../models/messageModel');
 
 
 const controller = {
